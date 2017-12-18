@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+name: EVL CORP
+description: The future of 1984, today
+
+footer-links:
+  facebook: evlcorp
+  github: evl-corp
+  twitter: evl_corp
